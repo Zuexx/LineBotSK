@@ -1,0 +1,164 @@
+{
+    "cocktails": [
+        {
+            "name": "櫻花吉姆雷特",
+            "name_en": "Sakura Gin Martini",
+            "alcohol_content": "22%",
+            "taste": "微甜帶有櫻花的淡雅香氣",
+            "taste_en": "Slightly sweet with the delicate aroma of cherry blossoms",
+            "description": "以琴酒為基底，加入櫻花利口酒與幾滴檸檬汁，仿若春日賞花。",
+            "description_en": "Based on gin, added with cherry blossom liqueur and a few drops of lemon juice, as if enjoying the cherry blossoms in spring.",
+            "price": "340"
+        },
+        {
+            "name": "暗夜咖啡",
+            "name_en": "Midnight Coffee",
+            "alcohol_content": "20%",
+            "taste": "濃厚的咖啡風味，帶有威士忌的溫暖",
+            "taste_en": "Rich coffee flavor with the warmth of whiskey",
+            "description": "威士忌與冷萃咖啡的完美融合，佐以一點點糖漿與鮮奶油點綴。",
+            "description_en": "The perfect blend of whiskey and cold brew coffee, garnished with a little syrup and cream.",
+            "price": "360"
+        },
+        {
+            "name": "熱帶風情",
+            "name_en": "Tropical Temptation",
+            "alcohol_content": "15%",
+            "taste": "果味香甜，隱約可感受到熱帶水果的酸甜",
+            "taste_en": "Fruity and sweet, with a subtle taste of tropical fruit sourness",
+            "description": "將芒果汁、鳳梨汁與朗姆酒混合，再加入一抹藍柑橘酒調色，帶來視覺與味覺的雙重享受。",
+            "description_en": "Mix of mango juice, pineapple juice, and rum, with a touch of blue curacao for coloring, providing a dual enjoyment of vision and taste.",
+            "price": "320"
+        },
+        {
+            "name": "紫羅蘭女伯爵",
+            "name_en": "Violet Countess",
+            "alcohol_content": "18%",
+            "taste": "淡淡的花香與伯爵茶的絕妙搭配",
+            "taste_en": "A subtle floral scent perfectly matched with Earl Grey tea",
+            "description": "結合伏特加、紫羅蘭甜酒與一撮伯爵茶粉，創造出典雅而神秘的風味。",
+            "description_en": "Combining vodka, violet liqueur, and a pinch of Earl Grey tea powder to create an elegant and mysterious flavor.",
+            "price": "310"
+        },
+        {
+            "name": "星夜魔法",
+            "name_en": "Starry Night Magic",
+            "alcohol_content": "16%",
+            "taste": "深邃的黑醋栗香氣，伴隨著微微的檸檬清新",
+            "taste_en": "Deep blackcurrant aroma with a hint of fresh lemon",
+            "description": "以琴酒為基底，加入黑醋栗利口酒及新鮮檸檬汁，製成星空般神奇的色澤。",
+            "description_en": "Based on gin, added with blackcurrant liqueur and fresh lemon juice, creating a magical starry color.",
+            "price": "350"
+        },
+        {
+            "name": "迷霧森林",
+            "name_en": "Misty Forest",
+            "alcohol_content": "12%",
+            "taste": "清新的薄荷與松露的獨特混合，帶來如森林般的清新",
+            "taste_en": "The unique mix of fresh mint and truffle, bringing a forest-like freshness",
+            "description": "融合伏特加、薄荷香料、以及少許的松露油，創造出霧氣繚繞的森林感。",
+            "description_en": "Combines vodka, mint essence, and a bit of truffle oil to create a misty forest sensation.",
+            "price": "380"
+        },
+        {
+            "name": "黃金蘋果",
+            "name_en": "Golden Apple",
+            "alcohol_content": "14%",
+            "taste": "甜蜜的蘋果與蘋果白蘭地的絕妙融合",
+            "taste_en": "The wonderful blend of sweet apple and apple brandy",
+            "description": "特選蘋果白蘭地混合特調蘋果汁和一點點肉桂，呈現如黃金般的色澤和滋味。",
+            "description_en": "Select apple brandy mixed with special apple juice and a hint of cinnamon, presenting a golden color and taste.",
+            "price": "360"
+        },
+        {
+            "name": "冰火玫瑰",
+            "name_en": "Ice Fire Rose",
+            "alcohol_content": "18%",
+            "taste": "花香醇厚，伴隨辣椒的微辣感",
+            "taste_en": "Rich floral scent with a hint of spiciness from chili",
+            "description": "使用玫瑰花瓣酒和辣椒朗姆酒為基底，加入檸檬汁增添清新感，是一款充滿對比美感的調酒。",
+            "description_en": "Based on rose petal liqueur and chili rum, added with lemon juice for a refreshing taste, this cocktail is full of contrasting beauty.",
+            "price": "370"
+        },
+        {
+            "name": "蜂蜜蘋果氣泡",
+            "name_en": "Honey Apple Sparkler",
+            "alcohol_content": "10%",
+            "taste": "甜中帶點微酸，蜂蜜的香甜與蘋果的清新交織",
+            "taste_en": "Sweet with a slightly sour hint, interweaving the sweetness of honey with the freshness of apple",
+            "description": "以蘋果白蘭地為基底，加入蜂蜜糖漿和新鮮蘋果汁，最後頂部加上氣泡水的點綴。",
+            "description_en": "Based on apple brandy, added with honey syrup and fresh apple juice, topped off with sparkling water.",
+            "price": "300"
+        },
+        {
+            "name": "夜幕朗姆",
+            "name_en": "Twilight Rum",
+            "alcohol_content": "20%",
+            "taste": "濃郁的朗姆酒風味，帶有淡淡的可可與咖啡香",
+            "taste_en": "Rich rum flavor with a hint of cocoa and coffee aroma",
+            "description": "黑朗姆酒與白朗姆酒的混合，加入一小勺可可粉和咖啡利口酒，完美的夜晚伴侶。",
+            "description_en": "A blend of dark and white rum, added with a teaspoon of cocoa powder and coffee liqueur, the perfect companion for the night.",
+            "price": "320"
+        },
+        {
+            "name": "荔枝玫瑰驚喜",
+            "name_en": "Lychee Rose Surprise",
+            "alcohol_content": "12%",
+            "taste": "荔枝的甜美結合玫瑰花瓣的芬芳，清爽而馥郁",
+            "taste_en": "The sweetness of lychee combined with the fragrance of rose petals, refreshing and fragrant",
+            "description": "以荔枝酒為基底，加入少量的玫瑰水和新鮮荔枝，裝飾以玫瑰花瓣，愛情的滋味。",
+            "description_en": "Based on lychee liqueur, added with a small amount of rose water and fresh lychees, garnished with rose petals, the taste of love.",
+            "price": "310"
+        },
+        {
+            "name": "辛辣生薑啤酒",
+            "name_en": "Spicy Ginger Beer",
+            "alcohol_content": "0%",
+            "taste": "強烈的生薑辛辣，清爽且提神",
+            "taste_en": "Strong spicy ginger, refreshing and invigorating",
+            "description": "全天然的生薑汁與檸檬汁混合，加入糖漿調整甜度，非酒精飲品中的活力之選。",
+            "description_en": "A mix of all-natural ginger juice and lemon juice, added with syrup to adjust sweetness, a vibrant choice among non-alcoholic drinks.",
+            "price": "220"
+        },
+        {
+            "name": "經典奈格羅尼",
+            "name_en": "Classic Negroni",
+            "alcohol_content": "24%",
+            "taste": "苦甜平衡，帶有一絲橙香",
+            "taste_en": "Balanced bittersweet with a hint of orange",
+            "description": "等份的琴酒、苦艾酒與紅味美思混合，搭配橙片裝飾，是一款經典的義大利調酒。",
+            "description_en": "Equal parts of gin, Campari, and sweet vermouth mixed together, garnished with an orange slice, a classic Italian cocktail.",
+            "price": "350"
+        },
+        {
+            "name": "梅子威士忌酸",
+            "name_en": "Plum Whiskey Sour",
+            "alcohol_content": "18%",
+            "taste": "酸甜達到完美平衡，梅子的香味使其更添層次",
+            "taste_en": "Sweet and sour perfectly balanced, enhanced with the aroma of plum for an added layer",
+            "description": "將波本威士忌與新鮮檸檬汁、梅子糖漿相結合，裝飾以梅片，一款具有東方風味的調酒。",
+            "description_en": "Combines bourbon whiskey with fresh lemon juice and plum syrup, garnished with slices of plum, a cocktail with an Oriental flavor.",
+            "price": "380"
+        },
+        {
+            "name": "焦糖莫吉托",
+            "name_en": "Caramel Mojito",
+            "alcohol_content": "14%",
+            "taste": "甜與清新的薄荷感完美融合，焦糖帶來溫暖的甜感",
+            "taste_en": "The sweetness and refreshing mint perfectly blended, with caramel bringing a warm sweetness",
+            "description": "傳統莫吉托的基礎上加入焦糖糖漿，再搭配薄荷、萊姆和蘇打水，為經典莫吉托增添了一絲創新。",
+            "description_en": "Based on the traditional mojito with the addition of caramel syrup, along with mint, lime, and soda water, adding a twist to the classic mojito.",
+            "price": "330"
+        },
+        {
+            "name": "薰衣草檸檬汁",
+            "name_en": "Lavender Lemonade",
+            "alcohol_content": "0%",
+            "taste": "清新檸檬的酸甜與薰衣草的花香完美交織",
+            "taste_en": "The perfect interweaving of fresh lemon's sweet and sour notes with the aromatic fragrance of lavender",
+            "description": "新鮮檸檬汁與薰衣草糖漿的搭配，再加入適量的冷水或氣泡水，無酒精的選擇，清新迷人。",
+            "description_en": "This delightful non-alcoholic drink blends fresh lemon juice with homemade lavender syrup, topped with a choice of still or sparkling water. The result is a refreshing and aromatic beverage that beautifully marries the sweet and tartness of lemon with the soothing floral essence of lavender.",
+            "price": "200"
+        }
+    ]
+}
